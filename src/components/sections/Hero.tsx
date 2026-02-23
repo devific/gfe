@@ -96,7 +96,7 @@ const Hero = () => {
           >
             <Link
               to="/work"
-              className="group relative px-10 py-5 bg-white text-black font-bold uppercase tracking-widest rounded-2xl overflow-hidden transition-all duration-500 hover:scale-105 hover:bg-primary hover:text-white"
+              className="group relative px-10 py-5 bg-white text-black font-bold uppercase tracking-widest rounded-2xl overflow-hidden transition-all duration-500 hover:scale-105 hover:bg-primary hover:text-white text-center"
             >
               <span className="relative z-10">Explore Our Work</span>
             </Link>
